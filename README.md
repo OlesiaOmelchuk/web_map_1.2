@@ -26,10 +26,11 @@ An HTML file will be created (web_map.html), and it looks like this in the brows
 
 <img src='images/map_ex_1.png'>
 
-There are three types of markers:
-* yellow - your starting point
-* light red - closest that year films
-* blue - that year films created in the USA
+**There are three types of markers**:
+* *yellow* - your starting point
+* *light red* - closest that year films
+* *blue* - that year films created in the USA
+
 
 If you click on markers, you will get more information about that particular film.
 
