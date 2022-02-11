@@ -7,7 +7,7 @@ from geopy.geocoders import Nominatim, ArcGIS
 
 def read_data(path: str, year: str) -> list:
     """
-    Reads data from file. Returns list of tuples 
+    Reads data from file. Returns list of tuples
     where all films were created in the particular year.
     Args:
         path: path to the file
